@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @FFFSanchez
-- 👀 I’m interested in writing TG bots
+- 👀 I’m interested in writing TG bots and django services
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on frontend developers
-- 📫 How to reach me @lordsanchez in telegram
+- 📫 How to reach me: @lordsanchez in telegram
 
 <!---
 FFFSanchez/FFFSanchez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
