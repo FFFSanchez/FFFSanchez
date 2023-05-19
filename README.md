@@ -12,6 +12,9 @@
 
 ## My Github Stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=FFFSanchez&show_icons=true&include_all_commits=true)](https://github.com/FFFSanchez/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FFFSanchez&layout=compact)](https://github.com/FFFSanchez/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=FFFSanchez)
+
+Александр Трифонов - [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FFFSanchez)
