@@ -4,10 +4,10 @@
 [![codewars](https://www.codewars.com/users/SanchezTrifonov/badges/micro)](https://www.codewars.com/users/SanchezTrifonov) 
 [![Telegram](https://img.shields.io/badge/-telegram-red?color=blue&logo=telegram&logoColor=white)](https://t.me/lordsanchez)
 
-- 🌱 I’m currently learning python as a backend-developer
-- 📫 Yandex student (Python developer)
-- 👀 I’m interested in Django
+- 🌱 Use Python as a backend-developer
+- 👀 I’m interested in Django and TG Bots
 - 💞️ I’m looking to collaborate on frontend developers
+- ❤️ Like ice cream and drift
 
 
 ## My Github Stats
