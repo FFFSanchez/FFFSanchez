@@ -7,7 +7,7 @@
 - 🌱 Use Python as a backend-developer
 - 👀 I’m interested in Django and TG Bots
 - 💞️ I’m looking to collaborate on frontend developers
-- ❤️ Like ice cream and drift
+- ❤️ Love ice cream and drift
 
 
 ## My Github Stats
