@@ -5,9 +5,9 @@
 [![Telegram](https://img.shields.io/badge/-telegram-red?color=blue&logo=telegram&logoColor=white)](https://t.me/lordsanchez)
 
 - 🛅 Python Backend Developer in Delta Security Systems
-- 👀 I’m interested in Django and TG Bots
-- 💞️ I’m looking to collaborate on frontend developers
-- ❤️ Love ice cream and drift
+- 👀 Specialize in Django REST Api and Telegram Bots
+- 📣 I’m looking for open source project to jump in.
+- ❤️ Love ice cream, b♾bs, money and drift
 
 
 ## My Github Stats
