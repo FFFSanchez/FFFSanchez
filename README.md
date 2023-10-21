@@ -17,4 +17,4 @@
 
 ![](https://komarev.com/ghpvc/?username=FFFSanchez)
 
-Александр Трифонов - [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FFFSanchez)
+My profile link - [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FFFSanchez)
