@@ -4,7 +4,7 @@
 [![codewars](https://www.codewars.com/users/SanchezTrifonov/badges/micro)](https://www.codewars.com/users/SanchezTrifonov) 
 [![Telegram](https://img.shields.io/badge/-telegram-red?color=blue&logo=telegram&logoColor=white)](https://t.me/lordsanchez)
 
-- 🌱 Use Python as a backend-developer
+- 🛅 Python Backend Developer in Delta Security Systems
 - 👀 I’m interested in Django and TG Bots
 - 💞️ I’m looking to collaborate on frontend developers
 - ❤️ Love ice cream and drift
